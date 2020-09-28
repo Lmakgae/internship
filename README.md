@@ -35,5 +35,5 @@ To submit the tasks, push your changes to the repo you forked, and add your emai
 
 ### Submission
 
-Name: Lehlogonolo Makgae
+Name: Lehlogonolo Makgae <br>
 Email: Hlogimakgae@gmail.com
