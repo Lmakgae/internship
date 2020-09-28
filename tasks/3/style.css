@@ -522,6 +522,10 @@ textarea {
     cursor: pointer;
 }
 
+[type=radio], input {
+    cursor: pointer;
+}
+
 button, input {
     overflow: visible;
 }
